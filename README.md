@@ -1,7 +1,7 @@
 # Muesli Distribution Company - Project Description
 
 <span style="color:grey">
-This goal of this project is to showcase my Exploratory Data Analysis skills by helping Muesli distribution company understand their delivery process. The company wants to develop KPIs to help them keep track of the health of their business in order to improve the service they offer their customers.
+The goal of this project is to showcase my Exploratory Data Analysis skills by helping Muesli distribution company understand their delivery process. The company wants to develop KPIs to help them keep track of the health of their business in order to improve the service they offer their customers.
 </span>
 
 ---
