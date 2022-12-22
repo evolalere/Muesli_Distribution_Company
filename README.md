@@ -16,3 +16,9 @@ The goal of this project is to showcase my Exploratory Data Analysis skills by h
 * <span style="color:grey"> Perform Exploratory Data Analysis
 * <span style="color:grey"> Calculate descriptive statistics
 ---
+## <span style="color:black"> __Tools__ </span>
+ 
+* <span style="color:grey"> Pandas
+* <span style="color:grey"> Matplotlib
+* <span style="color:grey"> draw.io
+---
