@@ -22,7 +22,7 @@ The goal of this project is to showcase my Exploratory Data Analysis skills by h
 * <span style="color:grey"> Matplotlib
 * <span style="color:grey"> draw.io
 ---
-## <span style="color:black"> __Deliverable__ </span>
+## <span style="color:black"> __Deliverables__ </span>
  
 * <span style="color:grey"> A presentation to stakeholders describing how the business is performing based on the KPIs developed
 * <span style="color:grey"> The presentation includes why the specific KPIs are important, what they show about the description of the business given by the employees and how they were developed technically from the data given
